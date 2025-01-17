@@ -9,10 +9,10 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 jupyter-notebook .
 ```
 
-# RUn Streamlit App(Dashboard)
+# Run Streamlit App(Dashboard)
 
 ```
 streamlit run dashboard.py
 ```
 
-# **DISCLAIMER** THIS PROJECT IS ONLY A COPY OF WHAT I'VE LEARN FROM **DICODING** PLATFORM AND ONLY USED FOR LEARNING.
+# DISCLAIMER THIS PROJECT IS ONLY A COPY OF WHAT I'VE LEARN FROM DICODING PLATFORM AND ONLY USED FOR LEARNING.
